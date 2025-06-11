@@ -1,0 +1,14 @@
+C:\Users\jsamu\source\repos\ctlClockLib\bin\Debug\net8.0-windows\ctlClocklib.deps.json
+C:\Users\jsamu\source\repos\ctlClockLib\bin\Debug\net8.0-windows\ctlClocklib.dll
+C:\Users\jsamu\source\repos\ctlClockLib\bin\Debug\net8.0-windows\ctlClocklib.pdb
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.ctlAlarmClock.resources
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.ctlClock.resources
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.csproj.GenerateResource.cache
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.AssemblyInfoInputs.cache
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.AssemblyInfo.cs
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.csproj.CoreCompileInputs.cache
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.dll
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\refint\ctlClocklib.dll
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClocklib.pdb
+C:\Users\jsamu\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ref\ctlClocklib.dll
