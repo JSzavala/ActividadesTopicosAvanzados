@@ -1,0 +1,13 @@
+C:\Users\jsamu\source\repos\GeneradorCurp\bin\Debug\net8.0-windows\GeneradorCurp.deps.json
+C:\Users\jsamu\source\repos\GeneradorCurp\bin\Debug\net8.0-windows\GeneradorCurp.dll
+C:\Users\jsamu\source\repos\GeneradorCurp\bin\Debug\net8.0-windows\GeneradorCurp.pdb
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.csproj.GenerateResource.cache
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.AssemblyInfoInputs.cache
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.AssemblyInfo.cs
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.csproj.CoreCompileInputs.cache
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.dll
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\refint\GeneradorCurp.dll
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.pdb
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\ref\GeneradorCurp.dll
+C:\Users\jsamu\source\repos\GeneradorCurp\obj\Debug\net8.0-windows\GeneradorCurp.GeneradorCurp.resources
