@@ -65,7 +65,7 @@ namespace CancellationDemos
             }
         }
 
-        // 2) Cancelacion de objeto
+        // Cancelacion de objeto
         class CancelableObject
         {
             public string Id { get; }
@@ -131,7 +131,6 @@ namespace CancellationDemos
             Console.WriteLine("Iniciando petición HTTP…");
             var request = client.GetStringAsync("http://www.contoso.com");
 
-            // Simular cancelación casi inmediata
             cts.CancelAfter(100);
 
             try
